@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Дмитриева Виктория Руслановна
+- https://colab.research.google.com/drive/1ZTOwug-j2SWYcRsiAPZQLiSDe7aCWWWN#scrollTo=9Dpv_9sEzGV-
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
